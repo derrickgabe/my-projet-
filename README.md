@@ -30,3 +30,32 @@ Medical information
 Preferred doctor selection
 
 Technical Stack
+Usage
+Navigate through the website using the navigation menu
+
+View information about partner teams and services
+
+Use the Entry form to:
+
+Register new players
+
+Input medical information
+
+Select preferred doctors
+
+View registered players in the display section
+
+Future Enhancements
+Implement backend functionality for form submission
+
+Add database integration for player records
+
+Create admin dashboard for managing player data
+
+Expand services section with detailed treatment information
+
+Add interactive elements to testimonials section
+
+Contributing
+Contributions are welcome. Please fork the repository and submit pull requests for review.
+
