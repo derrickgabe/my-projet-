@@ -59,3 +59,16 @@ Add interactive elements to testimonials section
 Contributing
 Contributions are welcome. Please fork the repository and submit pull requests for review.
 
+License
+This project is open-source. Attribution to SODO SPORTS GROUP is required if used as a template.
+
+Contact
+For inquiries about the project or organization:
+
+Email: osbonsports@gmail.com
+
+Phone: +254721781257
+
+Address: P.O.BOX 232323-9897
+
+Author : Derrick Gabriel
