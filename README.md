@@ -11,3 +11,22 @@ Services Overview: Highlights sports injury recovery services offered
 Medical Team Network: Displays specialized doctors across different locations in Kenya
 
 Player Registration System: Form for collecting player information for injury management
+ 
+ Key Sections
+Home Page: Introduction and partner team showcase
+
+About Us: Organization mission, impact statistics, and medical team information
+
+Contact Us: Organization contact details
+
+Entry Form: Player registration system with:
+
+Personal information
+
+Team details
+
+Medical information
+
+Preferred doctor selection
+
+Technical Stack
