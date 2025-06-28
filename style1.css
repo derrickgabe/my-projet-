@@ -1,0 +1,89 @@
+*::after,*::before {
+  box-sizing: border-box;
+  padding: 0;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.shape {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.shape:first-child{
+    background: linear-gradient( #866bff, #658af0);
+    left : -80px;
+    top: -80px;
+}
+.shape:last-child{
+    background: linear-gradient( #ffa66b, #f06595);
+    right : -30px;
+    bottom: -80px;
+}
+
+form{
+    height: 520px;
+    width: 400px;
+    background-color:rgba(206, 26, 26, 0.13);
+    border-radius: 10px;
+    position : absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(158, 60, 60, 0.13);
+    padding : 50px 35px;
+    box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+ }
+
+ form *{
+    color: #0e0d0d;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 0.5px;
+    outline: none;
+    border: none;
+    
+ }
+
+ form h3 {
+   font-size: 32px;
+    font-weight: 500;
+    line-height : 42px;
+    text-align: center;
+ }
+ form label {
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+    margin-top: 30px;
+ }
+
+ input {
+    width: 100%;
+    height: 50px;
+    display: block;
+    background: rgba(255, 255, 255, 0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    font-size: 14px;
+    margin-top: 8px;
+    font-weight: 300;
+ }
+ ::placeholder{
+    color: #f7f1f1;
+ }
+ button {
+    margin-top: 30px;
+    width: 100%;
+    height: 50px;
+    background-color: #0f0f0f; 
+    padding: 15px 10px;
+    font-weight: 500;
+    color: #f7f1f1;
+    cursor: pointer;
+ }
