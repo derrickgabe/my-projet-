@@ -30,6 +30,34 @@ Medical information
 Preferred doctor selection
 
 Technical Stack
+
+Technical Stack
+Frontend
+HTML: Semantic structure and content
+
+CSS: Styling and responsive design
+
+JavaScript: Form handling and dynamic content
+
+Dependencies
+Font Awesome icons (for partner team representations)
+
+Custom CSS stylesheet (/styles/home.css)
+
+Custom JavaScript file (/js/home.js)
+Installation & Setup
+No installation required for static files. Simply:
+
+Clone or download the repository
+
+Open index.html in a web browser
+
+For development:
+
+Ensure all file paths are correct in HTML (/styles/home.css and /js/home.js)
+
+Add Font Awesome CDN if icons aren't displaying properly
+
 Usage
 Navigate through the website using the navigation menu
 
