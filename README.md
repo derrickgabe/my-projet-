@@ -42,9 +42,9 @@ JavaScript: Form handling and dynamic content
 Dependencies
 Font Awesome icons (for partner team representations)
 
-Custom CSS stylesheet (/styles/home.css)
+Custom CSS stylesheet (styles.css)
 
-Custom JavaScript file (/js/home.js)
+Custom JavaScript file (script.js)
 Installation & Setup
 No installation required for static files. Simply:
 
@@ -54,7 +54,7 @@ Open index.html in a web browser
 
 For development:
 
-Ensure all file paths are correct in HTML (/styles/home.css and /js/home.js)
+Ensure all file paths are correct in HTML (styles.css and script.js)
 
 Add Font Awesome CDN if icons aren't displaying properly
 
